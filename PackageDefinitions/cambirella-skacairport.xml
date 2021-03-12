@@ -1,0 +1,31 @@
+<AssetPackage Name="cambirella-skacairport" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>SKAC Airport</Title>
+		<Manufacturer>Andres Ruiz Droege</Manufacturer>
+		<Creator>Andres Ruiz Droege</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cambirella-skacairport\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\cambirella-skacairport</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skacairport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir/>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

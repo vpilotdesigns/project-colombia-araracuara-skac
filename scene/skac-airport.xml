@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport region="Caqueta" country="Colombia" state="Caqueta" city="Araraucara" name="Araracuara Airport" ident="SKAC" lat="-0.60188951716384" lon="-72.39645496737582" alt="242.66263472367115" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+		<TaxiName index="0" name=""/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+
