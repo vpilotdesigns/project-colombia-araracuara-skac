@@ -1,0 +1,39 @@
+<AssetPackage Name="cambirella-airport-skac-araracuara" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Araracuara Airport</Title>
+		<Manufacturer>Andres Ruiz Droege</Manufacturer>
+		<Creator>Andres Ruiz Droege</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cambirella-airport-skac-araracuara\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\cambirella-airport-skac-araracuara</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skac-models">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\skac-modelLib\</AssetDir>
+			<OutputDir>scenery\skac-models\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="skacairport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>scene\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

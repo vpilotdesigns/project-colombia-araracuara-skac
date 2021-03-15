@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\cambirella-skacairport.xml</Package>
+		<Package>PackageDefinitions\cambirella-airport-skac-araracuara.xml</Package>
 	</Packages>
 </Project>
 

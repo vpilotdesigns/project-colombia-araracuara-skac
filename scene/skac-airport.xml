@@ -1,8 +1,328 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Airport region="Caqueta" country="Colombia" state="Caqueta" city="Araraucara" name="Araracuara Airport" ident="SKAC" lat="-0.60188951716384" lon="-72.39645496737582" alt="242.66263472367115" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" starAirport="TRUE">
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy)" lat="-0.60431018322873" lon="-72.39738475621751" alt="0.00000000000000" pitch="0.002903" bank="-0.002903" heading="70.667166" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60320468381839" lon="-72.39646900326819" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="74.241281" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60308625314392" lon="-72.39650287809867" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="77.275934" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy)" lat="-0.60296680990195" lon="-72.39653125418808" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="80.747808" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy)" lat="-0.60284334029165" lon="-72.39655294771273" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="80.747808" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy)" lat="-0.60272241989306" lon="-72.39657269965252" alt="0.00000000000000" pitch="0.002664" bank="-0.002664" heading="85.471430" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy)" lat="-0.60259424062972" lon="-72.39658403422041" alt="0.00000000000000" pitch="0.002152" bank="-0.002152" heading="90.743626" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy)" lat="-0.60247372255729" lon="-72.39658505661681" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="94.241639" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject lat="-0.60236035674531" lon="-72.39657663064882" alt="0.00000000000000" pitch="0.000792" bank="-0.000792" heading="96.508135" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy)" lat="-0.60209284602038" lon="-72.39669655027350" alt="0.00000000000000" pitch="0.001407" bank="-0.001407" heading="36.874682" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Bugalaga_Fence01-->
+	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy)" lat="-0.60202194610280" lon="-72.39679690119455" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-3.130665" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Courchevel_Wall_Fence_01-->
+	<SceneryObject lat="-0.60206781857997" lon="-72.39670385457677" alt="0.00000000000000" pitch="0.000301" bank="-0.000301" heading="121.671159" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{372B6B4F-04CD-4617-AD92-40D765B8F0F4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDDK_CargoArea_Tower_Fence-->
+	<SceneryObject lat="-0.60290281713197" lon="-72.39614275341090" alt="0.00000000000000" pitch="0.000744" bank="-0.000744" heading="-144.997539" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2EF0E8ED-D199-36A8-1F5C-E7FCBBD171F3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDDK_GA_BlastFence_003-->
+	<SceneryObject lat="-0.60217064850817" lon="-72.39689772998396" alt="0.00000000000000" pitch="0.000417" bank="-0.000410" heading="114.641775" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6A456768-6EF5-3740-588F-74F4626C7026}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EGGP_Misc_Fence_Medium-->
+	<SceneryObject displayName="EGGP_Misc_Fence_Medium (copy)" lat="-0.60245943786839" lon="-72.39616655119752" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ABAF7C2B-F893-483C-B3A9-7EBF64873250}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EGGP_Misc_Fence_Medium-->
+	<SceneryObject lat="-0.60245913733978" lon="-72.39632127609053" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{ABAF7C2B-F893-483C-B3A9-7EBF64873250}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EGGP_Misc_Fence_Small-->
+	<SceneryObject displayName="EGGP_Misc_Fence_Small (copy)" lat="-0.60244752296145" lon="-72.39616527905271" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4DE56C30-3A60-43F2-9902-696A44E0BE7E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EGGP_Misc_Fence_Small-->
+	<SceneryObject lat="-0.60244698462176" lon="-72.39632260768937" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4DE56C30-3A60-43F2-9902-696A44E0BE7E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence01-->
+	<SceneryObject lat="-0.60261052808710" lon="-72.39614564942612" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2F9D8F36-A130-499C-A035-C81641B91980}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence02-->
+	<SceneryObject lat="-0.60273457534670" lon="-72.39634742368078" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FD40396A-955B-4D48-8C5F-01101FCB7EFF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence02-->
+	<SceneryObject displayName="Fence02 (copy)" lat="-0.60272008021931" lon="-72.39614597952357" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FD40396A-955B-4D48-8C5F-01101FCB7EFF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence04-->
+	<SceneryObject lat="-0.60261756026855" lon="-72.39634922142257" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F3E19207-416C-476A-924D-38257A524E11}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence05-->
+	<SceneryObject lat="-0.60217232626627" lon="-72.39687086680102" alt="0.00000000000000" pitch="1.083500" bank="-1.205966" heading="131.931251" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7260046-7C08-49F0-A882-031448EE9E65}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling02_Middle-->
+	<SceneryObject lat="-0.60282847105007" lon="-72.39707927657176" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3A4E8D11-881D-4AB4-A25E-B5BF93325EA7}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_Corner01-->
+	<SceneryObject lat="-0.60293191728282" lon="-72.39714870413806" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D051E245-9207-499F-8665-3C5324DEAA74}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling04_High-->
+	<SceneryObject lat="-0.60296138614282" lon="-72.39709308176397" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4BD2957E-FEB7-42C5-A7C4-0F39F9FBC9F3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Middle-->
+	<SceneryObject displayName="Fence_Nature01_Middle (copy)" lat="-0.60238091395745" lon="-72.39688744327493" alt="0.00000000000000" pitch="0.000546" bank="-0.000546" heading="-175.774194" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{47E280DC-4C22-4580-BA64-255468471463}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Nature01_Middle-->
+	<SceneryObject lat="-0.60237190639844" lon="-72.39695278283470" alt="0.00000000000000" pitch="0.000546" bank="-0.000546" heading="-175.774194" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{47E280DC-4C22-4580-BA64-255468471463}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar112-->
+	<SceneryObject lat="-0.60242501221569" lon="-72.39692514442845" alt="0.00000000000000" pitch="0.000423" bank="-0.000423" heading="-179.542874" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{7230150E-B743-470D-8958-6063232FD059}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar119-->
+	<SceneryObject lat="-0.60217011396981" lon="-72.39660360331408" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{969BBE76-296C-40E4-80E1-F963DCB9C3DC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar119-->
+	<SceneryObject lat="-0.60216404203643" lon="-72.39670328400680" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{969BBE76-296C-40E4-80E1-F963DCB9C3DC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="-0.60385201819836" lon="-72.39685285356431" alt="0.00000000000000" pitch="0.002247" bank="-0.002247" heading="-114.733627" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar128-->
+	<SceneryObject lat="-0.60472416729991" lon="-72.39603854485772" alt="0.00000000000000" pitch="0.000417" bank="-0.000417" heading="154.371154" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E8F1281B-FB37-4414-87CB-774DA611E0EE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: dc3_wreckage-->
+	<SceneryObject lat="-0.60052247946177" lon="-72.39609236732564" alt="-0.75632730312645" pitch="0.727661" bank="0.911345" heading="-15.625198" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{95FD9CA0-C8AE-41BC-5EA6-B9C4E04F47D3}" scale="1.000000"/>
+	</SceneryObject>
+	<Group name="Group 1">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60343400872510" lon="-72.39640458437381" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="74.241281" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60331423809373" lon="-72.39643785016393" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="74.241281" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60256296544339" lon="-72.39723031641623" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="100.970939" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60244093135868" lon="-72.39720651440336" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="100.970939" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60233053471087" lon="-72.39718410248952" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="98.504756" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60220758260231" lon="-72.39716553875918" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="98.504756" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60202892088998" lon="-72.39691307430510" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-13.661246" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60205800298128" lon="-72.39703318759470" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="-13.661246" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60280069119014" lon="-72.39727640963422" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="100.970939" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60267865710543" lon="-72.39725260762135" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="100.970939" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60302740670381" lon="-72.39735276952881" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="108.670782" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60290968334501" lon="-72.39731294012550" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="108.670782" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy copy">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60324884638055" lon="-72.39742330198014" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="108.670782" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60313112302175" lon="-72.39738347257683" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="108.670782" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy copy cop">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy" lat="-0.60420737464308" lon="-72.39741731010373" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="79.401584" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy" lat="-0.60408507750121" lon="-72.39743974010233" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="79.401584" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy copy cop">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy" lat="-0.60396815553441" lon="-72.39745698638004" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="87.412679" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60384390505645" lon="-72.39746226670296" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="87.412679" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy copy cop">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60373032687943" lon="-72.39746761479944" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="94.158222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60360631212357" lon="-72.39745836097019" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="94.158222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 1 copy copy copy copy cop">
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60349320230400" lon="-72.39745246547007" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="96.798267" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Bugalaga_Fence01-->
+		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60336974826088" lon="-72.39743754711505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="96.798267" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 2 copy">
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy)" lat="-0.60212741386045" lon="-72.39650627189735" alt="0.00000000000000" pitch="0.000690" bank="-0.000690" heading="-172.715540" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy)" lat="-0.60209586849260" lon="-72.39650229925887" alt="0.00000000000000" pitch="0.000690" bank="-0.000690" heading="-172.715540" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy) (copy)" lat="-0.60206346872557" lon="-72.39649824354456" alt="0.00000000000000" pitch="0.000690" bank="-0.000690" heading="-172.715540" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy) (copy) (copy)" lat="-0.60204198927329" lon="-72.39649536552083" alt="0.00000000000000" pitch="0.000690" bank="-0.000690" heading="-172.715540" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 2 copy copy">
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy)" lat="-0.60233777808456" lon="-72.39648244221740" alt="0.00000000000000" pitch="0.001100" bank="-0.001100" heading="166.807618" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy) (copy)" lat="-0.60230682692777" lon="-72.39648968281269" alt="0.00000000000000" pitch="0.001100" bank="-0.001100" heading="166.807618" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy) (copy) (copy)" lat="-0.60227504610174" lon="-72.39649714249052" alt="0.00000000000000" pitch="0.001100" bank="-0.001100" heading="166.807618" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Fence_RedWhiteBarrier_Little-->
+		<SceneryObject displayName="Fence_RedWhiteBarrier_Little (copy) (copy) (copy) (copy) (copy)" lat="-0.60225391031718" lon="-72.39650191056566" alt="0.00000000000000" pitch="0.001100" bank="-0.001100" heading="166.807618" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<LibraryObject name="{A87834BC-8C73-43D4-9A3E-90F97E9B6E0F}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Airport country="Colombia" state="Caqueta" city="Araraucara" name="Araracuara Airport" ident="SKAC" lat="-0.60188951716384" lon="-72.39645496737582" alt="242.66263472367115" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="TRUE" starAirport="TRUE">
 		<TaxiName index="0" name=""/>
-		<Aprons/>
+		<Runway lat="-0.60075961650648" lon="-72.39799816977208" alt="238.81459141988307" heading="99.50004577636719" length="1278.19335937500000" width="32.54167556762695" patternAltitude="304.79998779296875" falloff="2.000000" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="TRUE" number="11" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="-0.59986175747802" lon="-72.40358833788179" alt="238.81251861713827" heading="99.00000000000000"/>
+			<RunwayStart end="SECONDARY" lat="-0.60169417637771" lon="-72.39251052391444" alt="238.81840755976737" heading="277.52905273437500"/>
+		</Runway>
+		<Aprons>
+			<Apron groupIndex="1" surface="{69614FC6-EFCD-4522-8122-08CFB3204316}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="16.000000" opacity="211" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="87" green="87" blue="87" alpha="255" override="TRUE"/>
+				<Vertex lat="-0.60188162288269" lon="-72.39658917777011"/>
+				<Vertex lat="-0.60179355087252" lon="-72.39657280248342"/>
+				<Vertex lat="-0.60171038715254" lon="-72.39653967390612"/>
+				<Vertex lat="-0.60163532765836" lon="-72.39649106516124"/>
+				<Vertex lat="-0.60157125688376" lon="-72.39642884422341"/>
+				<Vertex lat="-0.60152063703233" lon="-72.39635540226227"/>
+				<Vertex lat="-0.60148541339630" lon="-72.39627356156069"/>
+				<Vertex lat="-0.60146693960024" lon="-72.39618646726497"/>
+				<Vertex lat="-0.60146592558179" lon="-72.39609746628346"/>
+				<Vertex lat="-0.60148241030819" lon="-72.39600997897168"/>
+				<Vertex lat="-0.60151576028186" lon="-72.39592736733486"/>
+				<Vertex lat="-0.60156469388153" lon="-72.39585280614156"/>
+				<Vertex lat="-0.60172933544566" lon="-72.39584285567145"/>
+				<Vertex lat="-0.60183412156997" lon="-72.39577680012323"/>
+				<Vertex lat="-0.60191995862201" lon="-72.39575031232997"/>
+				<Vertex lat="-0.60204899513129" lon="-72.39570090393934"/>
+				<Vertex lat="-0.60213215885357" lon="-72.39573403250283"/>
+				<Vertex lat="-0.60220721835037" lon="-72.39578264124442"/>
+				<Vertex lat="-0.60227128912637" lon="-72.39584486220936"/>
+				<Vertex lat="-0.60232190897825" lon="-72.39591830417564"/>
+				<Vertex lat="-0.60235713261247" lon="-72.39600014488580"/>
+				<Vertex lat="-0.60237560640355" lon="-72.39608723917243"/>
+				<Vertex lat="-0.60237662041468" lon="-72.39617624016435"/>
+				<Vertex lat="-0.60240674141157" lon="-72.39633898190121"/>
+				<Vertex lat="-0.60239418436594" lon="-72.39646468479611"/>
+				<Vertex lat="-0.60221521533043" lon="-72.39648454578737"/>
+				<Vertex lat="-0.60216055135178" lon="-72.39649805362585"/>
+				<Vertex lat="-0.60203071510125" lon="-72.39648392081129"/>
+			</Apron>
+		</Aprons>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>

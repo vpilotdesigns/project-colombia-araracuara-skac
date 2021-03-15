@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/cambirella-airport-skac-araracuara/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132452037880000000
+    },
+    {
+      "path": "scenery/skac-airport.bgl",
+      "size": 5158,
+      "date": 132602478062447581
+    },
+    {
+      "path": "scenery/SKAC-AIRPORTSHP.BGL",
+      "size": 1403,
+      "date": 132602478062647597
+    },
+    {
+      "path": "scenery/skac-models/skac-modelLib.BGL",
+      "size": 19879326,
+      "date": 132602478061927572
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_0.JPG.DDS",
+      "size": 11184952,
+      "date": 132602478030645145
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_0.JPG.DDS.json",
+      "size": 102,
+      "date": 132602478030474793
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_1.JPG.DDS",
+      "size": 11184952,
+      "date": 132602478011590403
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_1.JPG.DDS.json",
+      "size": 102,
+      "date": 132602478011450394
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_2.JPG.DDS",
+      "size": 11184952,
+      "date": 132602478049747397
+    },
+    {
+      "path": "scenery/skac-models/TEXTURE/TEX_2.JPG.DDS.json",
+      "size": 102,
+      "date": 132602478049587388
+    }
+  ]
+}
