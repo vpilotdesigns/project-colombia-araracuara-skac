@@ -1,5 +1,32 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject displayName="Balanced_Rock (copy)" lat="-0.60100981130375" lon="-72.40571751144950" alt="-36.71222062251741" pitch="0.000724" bank="-0.000724" heading="144.259770" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject displayName="Balanced_Rock (copy) (copy)" lat="-0.59895242294566" lon="-72.40993471741199" alt="-7.45413779449149" pitch="0.001031" bank="-0.001031" heading="172.642839" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject displayName="Balanced_Rock (copy)" lat="-0.59827273357349" lon="-72.41041228907211" alt="-23.87775706242792" pitch="0.000833" bank="-0.000833" heading="140.133284" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject lat="-0.59825163528053" lon="-72.40758789238937" alt="-26.30643138604498" pitch="0.000724" bank="-0.000724" heading="144.259770" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.350000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject lat="-0.59820917437831" lon="-72.40793413287307" alt="-11.50191078219135" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Balanced_Rock-->
+	<SceneryObject lat="-0.59374706427426" lon="-72.40890223912484" alt="-11.19175998244270" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{F2C97BAD-DE25-4AF8-8DF7-BA6C5F0131FD}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Bugalaga_Fence01-->
 	<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy)" lat="-0.60431018322873" lon="-72.39738475621751" alt="0.00000000000000" pitch="0.002903" bank="-0.002903" heading="70.667166" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
@@ -132,6 +159,236 @@
 	<SceneryObject lat="-0.60472416729991" lon="-72.39603854485772" alt="0.00000000000000" pitch="0.000417" bank="-0.000417" heading="154.371154" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{E8F1281B-FB37-4414-87CB-774DA611E0EE}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Haystack_Rock-->
+	<SceneryObject displayName="Haystack_Rock (copy)" lat="-0.59408021139205" lon="-72.40679209742559" alt="-103.20404532652367" pitch="0.000683" bank="-0.000683" heading="-165.975810" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{4F0D4F81-36B9-4091-B3DD-C88D4786A317}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: MousaBroch_Rock01-->
+	<SceneryObject lat="-0.60615843431294" lon="-72.40409047878774" alt="-39.88348845631208" pitch="0.000977" bank="-0.000977" heading="27.128726" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{6862BC00-4E96-4294-9133-168B3AD72A01}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: MousaBroch_Rock01-->
+	<SceneryObject displayName="MousaBroch_Rock01 (copy)" lat="-0.60410903468877" lon="-72.40390906537473" alt="-45.71511891725302" pitch="0.001134" bank="-0.001134" heading="15.121171" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{6862BC00-4E96-4294-9133-168B3AD72A01}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: MousaBroch_Rock01-->
+	<SceneryObject lat="-0.60410903468877" lon="-72.40390906537473" alt="-45.71511891725302" pitch="0.001134" bank="-0.001134" heading="15.121171" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{6862BC00-4E96-4294-9133-168B3AD72A01}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: MousaBroch_Rock01-->
+	<SceneryObject displayName="MousaBroch_Rock01 (copy) (copy)" lat="-0.60361814063885" lon="-72.40434667840549" alt="-39.46698292044738" pitch="0.001134" bank="-0.001134" heading="15.121171" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{6862BC00-4E96-4294-9133-168B3AD72A01}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject displayName="Mousa_Ground_Rock02 (copy) (copy) (copy) (copy)" lat="-0.59460404274730" lon="-72.40909581757204" alt="0.98335302253011" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.199999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject displayName="Mousa_Ground_Rock02 (copy) (copy) (copy)" lat="-0.59444628410993" lon="-72.40905397150628" alt="-0.28858244131158" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.199999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject displayName="Mousa_Ground_Rock02 (copy) (copy)" lat="-0.59444628410993" lon="-72.40905397150628" alt="-0.28858244131158" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.199999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject displayName="Mousa_Ground_Rock02 (copy)" lat="-0.59433934853980" lon="-72.40904388594041" alt="0.26921293976153" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.199999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject lat="-0.59433934853980" lon="-72.40904388594041" alt="0.26921293976153" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.199999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Ground_Rock02-->
+	<SceneryObject lat="-0.59402057486001" lon="-72.40848770689369" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B1731C2D-BA4C-491A-8338-7A670A974CA1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02-->
+	<SceneryObject lat="-0.59230948436042" lon="-72.40623081689225" alt="-5.92283835992936" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{A0816D88-A51A-4730-9993-87603822684B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var01-->
+	<SceneryObject lat="-0.60191794585421" lon="-72.40790463857118" alt="-44.37327471350758" pitch="0.001544" bank="-0.001544" heading="0.021945" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{45ACBB66-D385-42ED-86F6-08B68CAB01CF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var01-->
+	<SceneryObject lat="-0.58948438044436" lon="-72.40462449967525" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{45ACBB66-D385-42ED-86F6-08B68CAB01CF}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject displayName="Mousa_Rock02Var03 (copy)" lat="-0.60122244748424" lon="-72.40831493698454" alt="-17.47661760706774" pitch="0.000301" bank="-0.000301" heading="-164.056827" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject lat="-0.60047644241469" lon="-72.40885591284388" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject displayName="Mousa_Rock02Var03 (copy) (copy) (copy)" lat="-0.59850122412840" lon="-72.41000542109599" alt="-25.42381051665197" pitch="0.001257" bank="-0.001264" heading="-132.481819" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject lat="-0.59761601521050" lon="-72.41033032830694" alt="-46.68590492377439" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject displayName="Mousa_Rock02Var03 (copy) (copy)" lat="-0.59682190872672" lon="-72.41006352380047" alt="-24.99090404915484" pitch="0.001038" bank="-0.001045" heading="-104.585537" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject displayName="Mousa_Rock02Var03 (copy)" lat="-0.59609056516624" lon="-72.40979964371195" alt="-11.81458942193026" pitch="0.000806" bank="-0.000813" heading="-80.706082" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Mousa_Rock02Var03-->
+	<SceneryObject lat="-0.59533666973083" lon="-72.40932676641111" alt="-15.43785153884710" pitch="0.000635" bank="-0.000635" heading="92.759604" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{BB49C2F6-6E4D-4A34-9E62-0494EC8AE6FA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject lat="-0.60470170592197" lon="-72.40615358015955" alt="-56.62382723560927" pitch="0.000908" bank="-0.000908" heading="-157.231474" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject displayName="RockCliff02 (copy) (copy) (copy)" lat="-0.60405845266109" lon="-72.40611765935682" alt="-32.21243700957226" pitch="0.001277" bank="-0.001277" heading="47.193151" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject displayName="RockCliff02 (copy) (copy)" lat="-0.60349948226546" lon="-72.40672430897237" alt="-62.62767494412043" pitch="0.000690" bank="-0.000690" heading="-130.725299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject displayName="RockCliff02 (copy)" lat="-0.60280386331902" lon="-72.40704820011419" alt="-49.36885977898254" pitch="0.000690" bank="-0.000690" heading="-130.725299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject lat="-0.60252523745205" lon="-72.40729294381948" alt="-47.43960769899510" pitch="0.000690" bank="-0.000690" heading="-130.725299" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: RockCliff02-->
+	<SceneryObject lat="-0.60081107355382" lon="-72.40889373663130" alt="-40.82942454841600" pitch="0.000826" bank="-0.000826" heading="-146.449692" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_02-->
+	<SceneryObject lat="-0.60617588684312" lon="-72.40405120519362" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{92A82049-B4BB-418A-9730-B451971E49AC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_02-->
+	<SceneryObject lat="-0.60326347222865" lon="-72.40683157870133" alt="-20.13790044780998" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{92A82049-B4BB-418A-9730-B451971E49AC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_03-->
+	<SceneryObject lat="-0.60444448758050" lon="-72.40566980037453" alt="1.17995409391176" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{705FC5E8-6430-413C-9A52-DD39E65C2A94}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60384337142505" lon="-72.40551790417469" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60342930739853" lon="-72.40499217200482" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60315385247178" lon="-72.40676135375003" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60202866334235" lon="-72.40775461205457" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60143654103504" lon="-72.40829839512666" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60125646770274" lon="-72.40848250599015" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60065800214159" lon="-72.40913342903065" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.60030111703362" lon="-72.40842399952668" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59962940980422" lon="-72.40904647393802" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59951638795865" lon="-72.40733906767024" alt="-23.09028630326972" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59936317455765" lon="-72.40920378888930" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59892135351748" lon="-72.40780019538512" alt="-2.72024713096457" pitch="0.001407" bank="-42.321454" heading="168.375952" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59772483018587" lon="-72.40956482904096" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59761017328886" lon="-72.40782462237229" alt="-6.60958485345859" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59733487286737" lon="-72.40873583049253" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59641035392409" lon="-72.41006732622066" alt="10.23572010386314" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59603349362490" lon="-72.40989422164139" alt="19.33125641778705" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_04-->
+	<SceneryObject lat="-0.59465525999778" lon="-72.40861471193026" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_moussa01-->
+	<SceneryObject displayName="Rock_Cliff_moussa01 (copy)" lat="-0.60445384135781" lon="-72.40608162886676" alt="-28.30924500106605" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{90B2A47F-6C5C-41CD-AA5F-594045C6C021}" scale="1.759999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Cliff_moussa01-->
+	<SceneryObject lat="-0.60441039033221" lon="-72.40623456570684" alt="-36.40483726749389" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{90B2A47F-6C5C-41CD-AA5F-594045C6C021}" scale="1.759999"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Jima03-->
+	<SceneryObject lat="-0.60098512767245" lon="-72.40617072528580" alt="-26.62002697224870" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{7EFAAEDF-B997-4C74-8E02-5DEEB8FDA47F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Jima03-->
+	<SceneryObject displayName="Rock_Jima03 (copy)" lat="-0.60081739620138" lon="-72.40636357932391" alt="-34.19026244297800" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{7EFAAEDF-B997-4C74-8E02-5DEEB8FDA47F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Jima03-->
+	<SceneryObject displayName="Rock_Jima03 (copy) (copy)" lat="-0.60064354823874" lon="-72.40651468732347" alt="-36.89845653760614" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{7EFAAEDF-B997-4C74-8E02-5DEEB8FDA47F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Jima03-->
+	<SceneryObject displayName="Rock_Jima03 (copy) (copy) (copy) (copy)" lat="-0.60034365808378" lon="-72.40954760722148" alt="-21.55210216376946" pitch="0.000847" bank="-0.000847" heading="39.493906" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{7EFAAEDF-B997-4C74-8E02-5DEEB8FDA47F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Rock_Jima03-->
+	<SceneryObject displayName="Rock_Jima03 (copy) (copy) (copy)" lat="-0.59816298713816" lon="-72.41033321070900" alt="-25.57264835770701" pitch="0.000765" bank="-0.000765" heading="73.062575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{7EFAAEDF-B997-4C74-8E02-5DEEB8FDA47F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Suwanosejima_Rock_Cliff_01-->
+	<SceneryObject lat="-0.60477637870136" lon="-72.40288868552067" alt="-52.63097342649951" pitch="4.059455" bank="-6.792247" heading="-149.276216" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<NoShadow/>
+		<LibraryObject name="{12BAD4B8-0FD6-43FC-B7D7-64654A5716FF}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: dc3_wreckage-->
 	<SceneryObject lat="-0.60052247946177" lon="-72.39609236732564" alt="-0.75632730312645" pitch="0.727661" bank="0.911345" heading="-15.625198" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{95FD9CA0-C8AE-41BC-5EA6-B9C4E04F47D3}" scale="1.000000"/>
@@ -244,6 +501,188 @@
 		<!--SceneryObject name: Bugalaga_Fence01-->
 		<SceneryObject displayName="Bugalaga_Fence01 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.60336974826088" lon="-72.39743754711505" alt="0.00000000000000" pitch="0.003039" bank="-0.003039" heading="96.798267" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 			<LibraryObject name="{A6EA1202-59BD-47FD-8C9B-F057C057599E}" scale="1.000000"/>
+		</SceneryObject>
+	</Group>
+	<Group name="Group 13" displayName="Cliffs_01">
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject lat="-0.60188149929321" lon="-72.40529392720201" alt="-47.57192675813531" pitch="0.000594" bank="-0.000594" heading="-131.896608" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy)" lat="-0.60021138376540" lon="-72.40682979733526" alt="-54.92516373509901" pitch="0.000594" bank="-0.000594" heading="-131.896608" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy)" lat="-0.59992701514553" lon="-72.40703061916381" alt="-56.04630918829091" pitch="0.000594" bank="-0.000594" heading="-131.896608" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy)" lat="-0.59789259585199" lon="-72.40788580336033" alt="-56.89357048728783" pitch="0.001455" bank="-0.001455" heading="-103.371116" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy)" lat="-0.59784963654871" lon="-72.40797094388664" alt="-58.15496504153617" pitch="0.001455" bank="-0.001455" heading="-103.371116" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy)" lat="-0.59562085941558" lon="-72.40971758678458" alt="-30.26609701614080" pitch="0.001544" bank="-0.001544" heading="-57.358604" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy)" lat="-0.59717031516645" lon="-72.40802839334543" alt="-55.24070560570351" pitch="0.001544" bank="-0.001544" heading="-93.150455" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy)" lat="-0.59701597900196" lon="-72.40807417038246" alt="-72.66268789797493" pitch="0.001544" bank="-0.001544" heading="-89.980222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy)" lat="-0.59635224323431" lon="-72.40795052371411" alt="-68.50047885000313" pitch="0.001544" bank="-0.001544" heading="-89.980222" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59604539008901" lon="-72.40781741364492" alt="-74.51739532940690" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59555359507034" lon="-72.40751635440002" alt="-84.97403604910119" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59471681867138" lon="-72.40894660633386" alt="-60.67476280765518" pitch="0.003039" bank="-0.003039" heading="104.792000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.282600"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59463926634346" lon="-72.40908272399531" alt="-61.75381710609952" pitch="0.002848" bank="-0.002848" heading="95.990113" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59423550177637" lon="-72.40882324112837" alt="-56.39813966509044" pitch="0.003039" bank="-0.003039" heading="104.792000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.282600"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59346968534833" lon="-72.40667488733708" alt="-66.93238871666870" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59340871053754" lon="-72.40878856715726" alt="-47.22959882136226" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59288272514863" lon="-72.40625871095018" alt="-62.86731406619089" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59212747131485" lon="-72.40574439863944" alt="-61.68780980963078" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59204803938282" lon="-72.40812829029630" alt="-37.78104653674802" pitch="0.002514" bank="-0.002514" heading="111.579555" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59127239312646" lon="-72.40577665858126" alt="-86.08133708787847" pitch="0.003039" bank="-0.003039" heading="80.653490" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59035969472539" lon="-72.40540028541574" alt="-71.96539300981129" pitch="0.003039" bank="-0.003039" heading="115.622480" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="1.210000"/>
+		</SceneryObject>
+		<!--SceneryObject name: RockCliff02-->
+		<SceneryObject displayName="RockCliff02 (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy) (copy)" lat="-0.59024712240609" lon="-72.40735042902173" alt="-140.12202552494333" pitch="0.002903" bank="-0.002903" heading="125.342086" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{C46BBF85-C48A-425E-A7B5-B0B866D8F058}" scale="2.565200"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject displayName="Rock_Cliff_01 (copy) (copy)" lat="-0.60713400317228" lon="-72.39946923984665" alt="-56.65773804402616" pitch="0.000369" bank="-0.000369" heading="-162.592107" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject displayName="Rock_Cliff_01 (copy)" lat="-0.60679089963640" lon="-72.40010872723474" alt="-55.19767253528548" pitch="0.000369" bank="-0.000369" heading="-162.592107" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60642886958295" lon="-72.40090469185427" alt="-54.80099033207782" pitch="0.000369" bank="-0.000369" heading="-162.592107" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60597261101551" lon="-72.40167148105321" alt="-63.61131321951723" pitch="0.818366" bank="2.928129" heading="35.355535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.100000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60389074320352" lon="-72.40364558604408" alt="-51.85118568469116" pitch="0.001086" bank="-0.001086" heading="-140.876777" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60335659193441" lon="-72.40397050755439" alt="-54.17132524072514" pitch="0.000895" bank="-0.000895" heading="28.528573" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60284079175706" lon="-72.40481003836489" alt="-77.19332907781947" pitch="0.000376" bank="-0.000376" heading="-125.464032" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_01-->
+		<SceneryObject lat="-0.60258541622046" lon="-72.40470464609812" alt="-56.91903188479642" pitch="0.000751" bank="-0.000751" heading="-143.855477" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{E404D545-8ADD-4FB3-AF50-3EB0E27DA267}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_02-->
+		<SceneryObject lat="-0.60135008941496" lon="-72.40581950602416" alt="-17.52299196651191" pitch="9.115454" bank="2.252924" heading="-175.739811" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{92A82049-B4BB-418A-9730-B451971E49AC}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_03-->
+		<SceneryObject lat="-0.60570461210505" lon="-72.40227642729340" alt="-23.81227753042475" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{705FC5E8-6430-413C-9A52-DD39E65C2A94}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_03-->
+		<SceneryObject displayName="Rock_Cliff_03 (copy)" lat="-0.60543166505225" lon="-72.40249248125882" alt="-23.50713206699061" pitch="12.997030" bank="-0.000205" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{705FC5E8-6430-413C-9A52-DD39E65C2A94}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_03-->
+		<SceneryObject displayName="Rock_Cliff_03 (copy)" lat="-0.60516476667612" lon="-72.40245797863736" alt="-29.45212460522706" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{705FC5E8-6430-413C-9A52-DD39E65C2A94}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_03-->
+		<SceneryObject lat="-0.60433789963482" lon="-72.40326442535148" alt="-28.72427885728581" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{705FC5E8-6430-413C-9A52-DD39E65C2A94}" scale="1.000000"/>
+		</SceneryObject>
+		<!--SceneryObject name: Rock_Cliff_04-->
+		<SceneryObject lat="-0.60134871583519" lon="-72.40580128666251" alt="-3.08564157880997" pitch="31.467453" bank="-11.836178" heading="178.176167" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+			<NoShadow/>
+			<LibraryObject name="{35576236-0082-4CA7-994B-BB8B7B6BB4E6}" scale="1.000000"/>
 		</SceneryObject>
 	</Group>
 	<Group name="Group 2 copy">
